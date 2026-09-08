@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhil962006/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Nikhil962006/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil962006/DSA-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 ## Math
 |  |
