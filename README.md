@@ -48,4 +48,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil962006/DSA-Practice/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
