@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikhil962006/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sorting
 |  |
 | ------- |
