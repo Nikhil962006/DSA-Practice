@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/Nikhil962006/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Nikhil962006/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil962006/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -61,5 +63,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
