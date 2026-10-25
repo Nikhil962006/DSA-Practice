@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Nikhil962006/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil962006/DSA-Practice/tree/master/0485-max-consecutive-ones) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
@@ -56,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil962006/DSA-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -83,4 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Nikhil962006/DSA-Practice/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
