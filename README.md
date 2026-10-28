@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 | [0485-max-consecutive-ones](https://github.com/Nikhil962006/DSA-Practice/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/Nikhil962006/DSA-Practice/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Nikhil962006/DSA-Practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhil962006/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Nikhil962006/DSA-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
