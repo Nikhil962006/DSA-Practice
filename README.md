@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Nikhil962006/DSA-Practice/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0189-rotate-array) |
+| [0443-string-compression](https://github.com/Nikhil962006/DSA-Practice/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Nikhil962006/DSA-Practice/tree/master/0455-assign-cookies) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhil962006/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Nikhil962006/DSA-Practice/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Nikhil962006/DSA-Practice/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/Nikhil962006/DSA-Practice/tree/master/0443-string-compression) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Nikhil962006/DSA-Practice/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sorting
 |  |
