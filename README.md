@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Nikhil962006/DSA-Practice/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Nikhil962006/DSA-Practice/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nikhil962006/DSA-Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Nikhil962006/DSA-Practice/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Nikhil962006/DSA-Practice/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Nikhil962006/DSA-Practice/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Nikhil962006/DSA-Practice/tree/master/0455-assign-cookies) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Nikhil962006/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
